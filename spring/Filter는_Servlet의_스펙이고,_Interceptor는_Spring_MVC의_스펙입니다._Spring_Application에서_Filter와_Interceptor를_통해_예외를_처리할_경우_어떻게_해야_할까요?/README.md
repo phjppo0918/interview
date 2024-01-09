@@ -1,0 +1,1 @@
+Filter는_Servlet의_스펙이고,_Interceptor는_Spring_MVC의_스펙입니다._Spring_Application에서_Filter와_Interceptor를_통해_예외를_처리할_경우_어떻게_해야_할까요?
