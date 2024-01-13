@@ -1,15 +1,13 @@
-## N+1 문제
+## N+1 문제 해결
 
-### 즉시로딩 (Eager Loading)
+Fetch join 사용
 
-연관된 객체를 한꺼번에 모두 조회하는 Fetch Type을 뜻한다.
+- fetch join은 처음부터 연관된 객체들을 한꺼번에 가져오는 방법이다. eager처럼 단건 쿼리가 여러번 날아가는 것이 아니라 join을 통해 최적화돼 쿼리가 날아간다.
 
-EntityManager의 find()를이용한 메서드의 경우 jpa내부적으로 join으로 최적화해 단건 쿼리가 생성된다.
+EntityGraph 어노테이션
 
-하지만 직접 우리가 jpql을 작성하기도하고, data jpa의 쿼리메소드도 jpa가 jpql를 생성하는데
+- 어노테이션을 통해서 fetch join을 이용하는 방식이다.
 
-이때 jpql은 sql로 바로 번역되기때문에 join최적화가 불가능하다.
+Batch Size
 
-즉 N+1 문제가 발생하고, Eager의 경우 해결이 불가능하다.
-
-## 지연 로딩(Lazt Loading)
+- where in 절 형태로 추가 쿼리가 날아가게하는 방식이다. 추가쿼리가 발생해서 N+1문제를 완벽하게 해결한 것은 아니지만, 획기적으로 추가쿼리가 줄어든다.
