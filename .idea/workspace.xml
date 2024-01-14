@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01ced454-d0f9-44d9-8cac-fe1cc49e8a56" name="Changes" comment="16 ~ 끝 풀이">
+      <change beforePath="$PROJECT_DIR$/network/대용량_로그_시스템을_구축한다면_어떻게_하실_계획인가요/homebdy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/network/대용량_로그_시스템을_구축한다면_어떻게_하실_계획인가요/homebdy/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2aTvcTpCHbs69vUmmBut2f2RpRO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/yeonjin/interview/java/SOLID원칙에_대해_설명해주세요&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java/SOLID원칙에_대해_설명해주세요" />
+      <recent name="$PROJECT_DIR$/java/String_pool이란_무엇인가요" />
+      <recent name="$PROJECT_DIR$/java/상속과_조합을_비교해서_설명하고_상속은_언제_사용하는_것이_좋을까요?" />
+      <recent name="$PROJECT_DIR$/java/Reflection이_무엇인가요/Dynamic_proxy가_무엇인가요" />
+      <recent name="$PROJECT_DIR$/java/java_Stack의_문제점을_설명해주세요" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="interview" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="interview" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01ced454-d0f9-44d9-8cac-fe1cc49e8a56" name="Changes" comment="" />
+      <created>1704355462718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704355462718</updated>
+      <workItem from="1704355464340" duration="29282000" />
+      <workItem from="1704789435700" duration="2573000" />
+      <workItem from="1704954165139" duration="4834000" />
+      <workItem from="1705043979509" duration="9496000" />
+    </task>
+    <task id="LOCAL-00001" summary="1~15 풀이">
+      <created>1704379885838</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704379885838</updated>
+    </task>
+    <task id="LOCAL-00002" summary="16 ~ 끝 풀이">
+      <created>1704392737853</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704392737853</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1~15 풀이" />
+    <MESSAGE value="16 ~ 끝 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="16 ~ 끝 풀이" />
+  </component>
+</project>
