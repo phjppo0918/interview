@@ -1,0 +1,1 @@
+1. DB는 All or Nothing
